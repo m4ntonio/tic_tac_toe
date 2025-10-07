@@ -92,3 +92,4 @@ Jogo encerrado pelo usuário.
 ## 👨‍💻 Autor
 
 `Mario Antonio Oliveira - RM567713`
+`Vinicius Augusto Silva - RM566830`
