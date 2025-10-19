@@ -68,6 +68,8 @@ tic_tac_toe/
 Jogador X, escolha a linha (0, 1, 2) ou 's' para sair: 1
 Jogador X, escolha a coluna (0, 1, 2) ou 's' para sair: 1
 
+Jogador X jogou na linha 1 e coluna 1
+
    0   1   2
 0    |   |  
   ---+---+---
@@ -78,6 +80,8 @@ Jogador X, escolha a coluna (0, 1, 2) ou 's' para sair: 1
 Jogador O, escolha a linha (0, 1, 2) ou 's' para sair: 0
 Jogador O, escolha a coluna (0, 1, 2) ou 's' para sair: 2
 
+Jogador O jogou na linha 0 e coluna 2
+
    0   1   2
 0    |   | O
   ---+---+---
@@ -86,10 +90,13 @@ Jogador O, escolha a coluna (0, 1, 2) ou 's' para sair: 2
 2    |   |  
 
 Jogador X, escolha a linha (0, 1, 2) ou 's' para sair: s
+
 Jogo encerrado pelo usuário.
 ```
 
-## 👨‍💻 Autor
+## 👨‍💻 Integrantes
 
-`Mario Antonio Oliveira - RM567713`  
-`Vinicius Augusto Silva - RM566830`
+`Mario Antonio Oliveira ...... RM567713`  
+`Vinicius Augusto Silva ...... RM566830`
+`Matheus Graça da Costa ...... RM567707`
+`Rodrigo Silva Barbosa Filho . RM567678`
