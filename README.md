@@ -97,6 +97,6 @@ Jogo encerrado pelo usuário.
 ## 👨‍💻 Integrantes
 
 `Mario Antonio Oliveira ...... RM567713`  
-`Vinicius Augusto Silva ...... RM566830`
-`Matheus Graça da Costa ...... RM567707`
+`Vinicius Augusto Silva ...... RM566830`  
+`Matheus Graça da Costa ...... RM567707`  
 `Rodrigo Silva Barbosa Filho . RM567678`
